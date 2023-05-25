@@ -1,2 +1,3 @@
 # MiniProject_Desktop
-ㅌ
+미니프로젝트 데스크탑앱(ERP 재고 관리)
+
